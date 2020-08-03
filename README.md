@@ -5,7 +5,7 @@
 
 ## Results of the analysis
 ### 
-1* There were 369,711 votes received,
+1 * There were 369,711 votes received,
 1- All of those votes are from 3 location
       *Jeffernson: 10.5% of total votes, 38,855 total votes count
       *Denver: 82.8% of total votes, 306,055 total votes count
